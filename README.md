@@ -173,19 +173,18 @@ For a guide to loading your Social Mapper results into Maltego, check out the [d
 
 * [**Jacob Wilkin**](https://github.com/Greenwolf) - *Research and Development*
 
-## Donation
-If this tool has been useful for you, feel free to thank me by buying me a coffee :)
-
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Greenwolf)
-
 ## Acknowledgments
 
 * Thanks to Vincent Yiu & MDSEC for their great LinkedInt tool which inspired me to add the search by LinkedIn company name input method.
 * Thanks to [janmei](https://github.com/janmei) (Pinterest Module), [alexsok-bit](https://github.com/alexsok-bit), [ewpratten](https://github.com/ewpratten), [cclauss](https://github.com/cclauss), [TADT1909](https://github.com/tadt1909), [Molkree](https://github.com/Molkree) and [kix-s](https://github.com/kix-s) for their contributions to the project.
 * Thanks to `[Your Name Could Be Here, Come Help Out!]` for contributions to the project.
 
-![Social Mapper Logo](docs/logo.png?raw=true "Social Mapper Logo")
-
-## Youtube Trailer:
-
-[![Social Mapper Trailer](https://i.imgur.com/s6rPhgK.jpg)](https://www.youtube.com/watch?v=wVN-7R3B_xs&feature=youtu.be "Social Mapper Trailer")
+## Easy Installation
+* Installation of Virtual Machine  - This runs only in Linux
+* Oracle VirtualBox 6.1.16 platform packages - Mac/Windows
+* VirtualBox 6.1.16 Oracle VM VirtualBox Extension Pack
+https://bit.ly/3lhoP94
+*  Kali Linux VirtualBox 64-Bit
+https://bit.ly/3kul8vo
+* Run Install.sh file in Kali 
+* Update credentials of all your 8 social media platforms in social_mapper.py file
